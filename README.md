@@ -8,8 +8,8 @@ I love everything that has to do with tech.
 
 * 🌍  I'm based in Rome
 * 🖥️  See my portfolio at [Linktree](http://linktr.ee/tamerhayek)
+* 🧠  See my certificates at [Udemy](http://www.udemy.com/user/tamer-hayek/)
 * ✉️  You can contact me at [info.tamerhayek@gmail.com](mailto:info.tamerhayek@gmail.com)
-* 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
