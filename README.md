@@ -6,13 +6,17 @@ Full Stack Developer
 
 As a 22-year-old full-stack web developer with a passion for technology, I am dedicated to creating innovative and user-friendly digital experiences. With a solid foundation in both front-end and back-end development, I specialize in utilizing cutting-edge technologies to build responsive, scalable, and dynamic applications. As a detail-oriented problem solver, I thrive in collaborative environments and am committed to delivering exceptional results for clients. I am constantly seeking to expand my skills and knowledge, and I am excited to contribute my talents to any team or project that values innovation, creativity, and excellence.
 
-*   🌍  I'm based in Rome
-*   🖥️  See my portfolio at [Portfolio](http://tamerhayek.com)
-*   ✉️  You can contact me at [dev@tamerhayek.com](mailto:dev@tamerhayek.com)
-*   🧠  I'm learning React<a href="https://www.github.com/tamibyte" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/tamibyte?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/tamibyte" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/tamibyte?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+* 🌍  I'm based in Rome
+* 🖥️  See my portfolio at [Portfolio](http://tamerhayek.com)
+* ✉️  You can contact me at [dev@tamerhayek.com](mailto:dev@tamerhayek.com)
+* 🧠  I'm learning React
+
+<a href="https://www.github.com/tamibyte" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tamibyte?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/tamibyte" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/tamibyte?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -34,18 +38,14 @@ As a 22-year-old full-stack web developer with a passion for technology, I am de
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/tamibyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/tamibyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/tamerhayek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/tamibyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/tamibyte"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=tamibyte&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/tamibyte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamibyte&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/tamibyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tamibyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tamerhayek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tamibyte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/tamibyte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tamibyte&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/tamibyte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamibyte&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
