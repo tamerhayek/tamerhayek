@@ -12,9 +12,7 @@ As a 22-year-old full-stack web developer with a passion for technology, I am de
 * 🧠  I'm learning React
 
 <a href="https://www.github.com/tamibyte" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tamibyte?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/tamibyte" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tamibyte?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/tamibyte?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
