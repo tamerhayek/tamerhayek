@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-As a 22-year-old full-stack web developer with a passion for technology, I am dedicated to creating innovative and user-friendly digital experiences. With a solid foundation in both front-end and back-end development, I specialize in utilizing cutting-edge technologies to build responsive, scalable, and dynamic applications. As a detail-oriented problem solver, I thrive in collaborative environments and am committed to delivering exceptional results for clients. I am constantly seeking to expand my skills and knowledge, and I am excited to contribute my talents to any team or project that values innovation, creativity, and excellence.
+I'm a full-stack web developer with a passion for technology and I am dedicated to creating innovative and user-friendly digital experiences.
 
 * 🌍  I'm based in Rome
-* 🖥️  See my portfolio at [Portfolio](http://tamerhayek.com)
+* 🖥️  See my portfolio at [https://tamerhayek.com](http://tamerhayek.com)
 * ✉️  You can contact me at [dev@tamerhayek.com](mailto:dev@tamerhayek.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Next
 
 <a href="https://www.github.com/tamerhayek" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tamerhayek?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
