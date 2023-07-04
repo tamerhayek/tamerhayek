@@ -7,7 +7,7 @@ Full Stack Developer
 I'm a full-stack web developer with a passion for technology and I am dedicated to creating innovative and user-friendly digital experiences.
 
 * 🌍  I'm based in Rome
-* 🖥️  See my portfolio at [https://tamerhayek.com](http://tamerhayek.com)
+* 🖥️  See my portfolio at [tamerhayek.com](http://tamerhayek.com)
 * ✉️  You can contact me at [dev@tamerhayek.com](mailto:dev@tamerhayek.com)
 * 🧠  I'm learning Next
 
