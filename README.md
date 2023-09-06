@@ -1,22 +1,22 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tamer
 
-<div align="center">
+<div align="left">
   <img height="130" src="https://tamerhayek.com/avatar.png"  />
 </div>
 
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
-<p>I'm a fullstack web developer with a passion for technology and I am dedicated to creating innovative and user-friendly digital experiences.</p>
+<p align="left">I'm a fullstack web developer with a passion for technology and I am dedicated to creating innovative and user-friendly digital experiences.</p>
 
 -   🌍 I'm based in Rome
--   🖥️ See my [Portfolio](http://tamerhayek.com)
+-   🖥️ See my [Portfolio](https://tamerhayek.com)
 -   ✉️ You can contact me at [dev@tamerhayek.com](mailto:dev@tamerhayek.com)
 -   🧠 I'm learning Next.js
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://tamerhayek.com/linkedin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
