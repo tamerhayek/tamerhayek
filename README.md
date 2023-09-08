@@ -1,12 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tamer
 
-<div align="left">
-  <img height="130" src="https://tamerhayek.com/avatar.png"  />
-</div>
-
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h2 align="left">👩‍💻 About Me</h2>
 <p align="left">I'm a fullstack web developer with a passion for technology and I am dedicated to creating innovative and user-friendly digital experiences.</p>
 
 -   🌍 I'm based in Rome
