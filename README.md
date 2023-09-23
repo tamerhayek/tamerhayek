@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tamer
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Tamer
 
 ###
 
@@ -8,7 +8,6 @@
 -   🌍 I'm based in Rome
 -   🖥️ See my [Portfolio](https://tamerhayek.com)
 -   ✉️ You can contact me at [dev@tamerhayek.com](mailto:dev@tamerhayek.com)
--   🧠 I'm learning Next.js
 
 ###
 
