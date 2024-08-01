@@ -32,7 +32,6 @@
   <h3 style="color: #fff !important;">🛠 Language and tools used more</h3>
 
   <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
