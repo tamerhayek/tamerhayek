@@ -1,51 +1,97 @@
-# Hi, my name is Tamer Hayek
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d97e&height=110&section=header&text=tamibyte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-<div style="background-color: #1A1B27; color: #fff !important; padding: 25px; border-radius: 10px; display: flex; flex-direction: column; gap: 15px;">
+`tamibyte@github:~$ ./whoami.sh`
 
-  <div>
-    <h2 style="color: #fff !important; margin: 0;">👨🏻‍💻 About Me</h2>
-    <p>
-      I'm a fullstack web developer with a passion for technology and I am dedicated to creating innovative and user-friendly digital experiences.
-    </p>
-    <ul>
-      <li>🌍 I'm based in Rome</li>
-      <li>🖥️ See my <a style='color: #fff; text-decoration: underline;' href="https://tamerhayek.com">Portfolio</a></li>
-      <li>✉️ You can contact me at <a style='color: #fff; text-decoration: underline;' href="mailto:dev@tamerhayek.com">dev@tamerhayek.com</a></li>
-    </ul>
-  </div>
+```yaml
+name    : Tamer Hayek
+role    : Software Engineer
+focus   : Full Stack + DevOps
+fav     : Svelte  # obviously
+infra   : self-hosted everything
+location: Rome, Italy 🇮🇹
+motto   : Build things. Break things. Fix things. Repeat.
+```
 
-  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <a href="https://tamerhayek.com/linkedin" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
-    </a>
-    <a href="https://tamerhayek.com/instagram" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo"  />
-    </a>
-    <a href="https://tamerhayek.com/discord" target="_blank">
-       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    </a>
-    <a href="https://tamerhayek.com/telegram" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-    </a>
-  </div>
+<br/>
 
-  <h3 style="color: #fff !important;">🛠 Language and tools used more</h3>
+`tamibyte@github:~$ cat stack.txt`
 
-  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-    <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  </div>
-</div>
+**Frontend**
+
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=black)
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br/>
+
+`tamibyte@github:~$ git log --oneline`
+
+```
+e3f1a2b (2025) 🎤 talk: "I use Svelte btw!" @ RomaJS
+c7d4b1e (2024) 📚 feat: mastered Svelte 5 & SvelteKit
+f9c2a3d (2023) 🤝 feat: started collaborating with Olympos Hub (https://olymposhub.io)
+9a2f3c1 (2022) 💼 init: started freelance journey as Software Engineer
+b5e8d4f (2020) 🤖 feat: joined SASA @ Sapienza — built rover software
+a1b2c3d (2019) 🎓 init: enrolled in Computer Science @ Sapienza
+```
+
+<br/>
+
+`tamibyte@github:~$ systemctl status tamerhayek`
+
+```
+● tamerhayek.service — Software Engineer
+   Active: running 🟢
+
+   → rebuilding personal portfolio & brand
+   → maintaining Olympos Hub infrastructure
+   → shipping client projects
+```
+
+<br/>
+
+`tamibyte@github:~$ crontab -l`
+
+```
+@monthly  📅 attend a JS meetup
+@weekly   📖 study something new
+@random   🐳 self-host something I probably don't need
+@random   🃏 play cards  # yes, really
+```
+
+<br/>
+
+`tamibyte@github:~$ ssh -T goals`
+
+```
+> Authenticating... done ✅
+> Connected to goals.tamerhayek.com
+
+  [ ] 🎓 graduate from Sapienza
+  [ ] 📱 grow on YouTube & socials
+  [ ] 🎤 speak at more conferences
+```
+
+<br/>
+
+`tamibyte@github:~$ cat links.txt`
+
+```
+🌐 portfolio  →  https://tamerhayek.com
+📧 email      →  dev@tamerhayek.com
+```
+
+`tamibyte@github:~$ █`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d97e&height=80&section=footer" width="100%"/>
